@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ramen-Mondal
-- 👀 I’m interested in ... coding and devlopment
-- 🌱 I’m currently learning ... DSA,Android devlopment & web devlopment
-- 💞️ I’m looking to collaborate on ...😁😎
-- 📫 How to reach me ... i don't know😁
+- 👀 I’m interested in ... coding and development
+- 🌱 I’m currently learning ... Java, Kotlin, DSA And Android Development
+- 💞️ I’m looking to collaborate on ...Android Development
+- 📫 How to reach me ... Connect or Message me on LinkedIn. Profile link :- https://www.linkedin.com/in/ramen-mondal-01x/
 
 <!---
 Ramen-Mondal/Ramen-Mondal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
